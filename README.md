@@ -12,19 +12,19 @@
  
  🔭 I’m currently working on **NLP and GENAI Project**
  
- 🌱 I’m currently learning **NLP,Lamma index , AWS**
+ 🌱 I’m currently learning **NLP,Lamma index,AWS**
 
-💬 Ask me about **Machine learning ,Deep learning,NLP... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Machine learning ,Deep learning,NLP... or anything [here](https://github.com/Swarajsolanke)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.swarajsolanke02@gmail.com">
+  <a href="swarajsolanke02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/swaraj-sales-solanke" target="_blank">
+  <a href="https://www.linkedin.com/in/swaraj-solanke-9a5b78229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
