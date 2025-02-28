@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NLP and GENAI Project**
+ 🔭 I’m currently working on **NLP and GENAI Project and Computer vision**
  
- 🌱 I’m currently learning **NLP,Lamma index,AWS**
+ 🌱 I’m currently learning **NLP,Lammaindex,AWS**
 
 💬 Ask me about **Machine learning ,Deep learning,NLP... or anything [here](https://github.com/Swarajsolanke)**
 
