@@ -1,12 +1,21 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Swaraj+Solanke!;" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Swaraj+Solanke;Machine+Learning+Engineer;Open+Source+Enthusiast"/>
+</p>
+
 
 <h3 align="center">A passionate Machine learning Engineer  from India </h3>
 
 <br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Swarajsolanke&style=flat-square&color=blue" alt="profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7971E&center=true&vCenter=true&width=400&lines=Welcome+to+my+interactive+profile!"/>
+</p>
 
 <div align="center">
  
@@ -40,22 +49,21 @@
 </div>
 
 <br/>
-<hr/>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<!--    <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Swarajsolanke&count_private=true&theme=react&border_radius=10" alt="streak stats"/> -->
-
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Swarajsolanke&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<hr/>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=300&lines=GitHub+Stats+%26+Activity"/>
+</h2>
+<p align="center">
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Swarajsolanke&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarajsolanke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-<br/><br/>
-<hr/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Swarajsolanke&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swarajsolanke&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  
+</p>
 
-<br/>
 
-<br/>
+
+
 
