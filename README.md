@@ -64,6 +64,8 @@
 </p>
 
 
-
+<p align="center">
+  <i>✨ Thank you for visiting my profile! ✨</i>
+</p>
 
 
