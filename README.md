@@ -1,5 +1,8 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Swarajsolanke.Swarajsolanke" />
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Swarajsolanke&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Swarajsolanke.Swarajsolanke" />
+</p>
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+👋;I'm+Swaraj+Solanke;Machine+Learning+Engineer;Open+Source+Enthusiast"/>
 </p>
@@ -9,9 +12,7 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Swarajsolanke&style=flat-square&color=blue" alt="profile views"/>
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=F7971E&center=true&vCenter=true&width=400&lines=Welcome+to+my+interactive+profile!"/>
